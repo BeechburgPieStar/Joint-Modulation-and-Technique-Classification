@@ -1,4 +1,4 @@
-# JTMC
+# Joint-Modulation-and-Technique-Classification
 A simple CNN for joint modulation and technique classification about radar & communication signal
 
 ### File directory description
